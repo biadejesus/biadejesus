@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Oi 👋! Meu nome é Beatriz e sou Bacharela em Ciência da Computação, muito interessada em design e tecnologia! </h2>
 
 ###
 
@@ -10,10 +10,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://imgur.com/LpD9Uol"  />
+  <img height="200" src="https://imageup.me/icon-biadejesus"  />
 </div>
-
-###
 
 ###
 
