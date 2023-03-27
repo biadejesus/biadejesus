@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-beta-three-12.vercel.app/api?username=biadejesus&&count_private=true&show_icons=true&hide_title=true&theme=radical&include_all_commits=true&border_color="141321"&hide_progress=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-beta-three-12.vercel.app/api/top-langs?username=biadejesus&hide_title=true&layout=compact&hide_progress=true&card_width=320&langs_count=5&theme=radical&hide[Prolog]=true&border_color:141321" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-beta-three-12.vercel.app/api/top-langs?username=biadejesus&hide_title=true&layout=compact&hide_progress=true&card_width=320&langs_count=5&theme=radical&hide[Prolog]=true&border_color=pink" height="150" alt="languages graph"  />
 </div>
 
 ###
