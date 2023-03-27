@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-beta-three-12.vercel.app/api?username=biadejesus" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-beta-three-12.vercel.app/api/top-langs?username=biadejesus" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-beta-three-12.vercel.app/api/top-langs?username=biadejesus&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
