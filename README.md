@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Beatriz e sou Bacharela em Ciência da Computação, tenho imenso interesse em design e tecnologia!🌟 </h2>
+<h2 align="left">Oi 👋! Meu nome é Beatriz e sou Bacharela em Ciência da Computação, tenho imenso interesse em design e tecnologia! Acesse meu Behance para ver meu protifólio de UX!🌟 </h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://www.behance.net/biadejesusc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=discord&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=Behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Behance logo"  />
   </a>
   <a href="contatobiadejesus@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
